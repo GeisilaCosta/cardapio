@@ -1,0 +1,49 @@
+Exemplos de Json 
+dados para serem inseridos um a um 
+	{
+		"title": "Hamburguer",
+		"image": "https://www.auau.com.br/image/cache/data/up_system/product-13697/TEXAS-BURGUER-1000x1000.jpg",
+		"price": 20
+	}
+	{
+		"title": "lazanha",
+		"image": "https://static.itdg.com.br/images/360-240/ec2a5e38702c60bf1ace0b5f1c8e9415/shutterstock-739787011.jpg",
+		"price": 50
+	}
+	{
+
+		"title": "sushi",
+		"image": "https://www.folhabv.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=2000&height=1333&format=.jpg&quality=91&imagick=uploads.folhabv.com.br/2023/09/1aaa.jpg",
+		"price": 70
+	}
+	{
+		
+		"title": "Parmegiana",
+		"image": "https://comidinhasdochef.com/wp-content/uploads/2017/10/Como-Fazer-Fil%C3%A9-%C3%A0-Parmegiana.jpg",
+		"price": 30
+	}
+	{
+		"title": "Macarrão a bolonhesa",
+		"image": "https://static.itdg.com.br/images/360-240/a421b96aa004d4dd5e050c04970de54d/294322-original.jpg",
+		"price": 20
+	}
+	{
+		"title": "Costelinha ",
+		"image": "https://i.pinimg.com/originals/25/32/5d/25325d7fedaefcecc8741790c386d104.jpg",
+		"price": 40
+	}
+	{
+		"title": "Bife à cavalo",
+		"image": "https://www.sabornamesa.com.br/media/k2/items/cache/8d00d7ae4f3b1af3be8d6d077cf2f6c4_XL.jpg",
+		"price": 30
+	}
+	{
+		"title": "Feijoada",
+		"image": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/10/07/677992164-feijoada.jpg",
+		"price": 50
+	}
+	{
+		"title": "Churrasco",
+		"image": "https://independente.com.br/wp-content/uploads//2022/11/churrasco-tipico-brasileiro-com-pao-de-alho-picanha-linguica-vinagrete-e-farofa_261158-1669-e1668771465648.jpg",
+		"price": 100
+	}
